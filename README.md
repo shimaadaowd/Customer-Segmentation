@@ -1,5 +1,6 @@
 # Customer Segmentation
-![image](https://github.com/shimaadaowd/Customer-Segmentation/assets/81235048/2e371f8b-363e-4f83-8a0c-81806b21a6e4)
+![image](https://github.com/shimaadaowd/Customer-Segmentation/assets/81235048/3d643c9b-2810-4ec8-b28e-b3db5039af9a)
+
 
 # About:
 This project is based on customer segmentation analysis for a customer database. Starting with exploring the data, then segmenting the customers according to the following segments:
